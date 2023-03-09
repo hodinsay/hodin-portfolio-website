@@ -30,6 +30,10 @@ Afterward:
 
 `npm start`
 
+*Or:*
+
+See my portfolio website template here: https://github.com/hodinsay/portfolio-website-template
+
 # Optimization:
 - Could enhance image responsiveness via `HTML` attributes `srcset` and `size`.
 - Could possibly optimized lighthouse audit `performance` score by reducing unused `JavaScript`.
