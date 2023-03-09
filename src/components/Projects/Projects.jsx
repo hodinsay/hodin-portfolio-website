@@ -1,7 +1,7 @@
 import './Projects.scss';
 import acr from '../../assets/acr-768.avif';
 import photography from '../../assets/photography-768.avif';
-import portfolio from '../../assets/portfolio-768.avif';
+import portfolio from '../../assets/portfolio-768w.avif';
 import { FaExternalLinkAlt } from 'react-icons/fa';
 
 const Projects = () => {
@@ -20,7 +20,7 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>Din Ho Photography</h3>
-                    <p>A modern, semantic, and responsive multi-page photographer portfolio website. Browse and view collections of photographs through a pop-up carousel image slider. The website is accessible on tablet and mobile devices.</p>
+                    <p>A modern, semantic, and responsive multi-page photographer portfolio website. Browse and view collections of photographs through a pop-up carousel image slider. The website is best accessible on laptop, tablet, and mobile devices.</p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>
@@ -58,7 +58,7 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>My Portfolio Website Template</h3>
-                    <p>A modern, semantic, and responsive portfolio website template for web developer which you can utilize and deploy for free through Netlify. This website is accessible on tablet and mobile devices. Lighthouse audit scored: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
+                    <p>A modern, semantic, and responsive portfolio website template for web developers and software engineers to utilize and deploy for free through Netlify. The website is accessible on tablet and mobile devices. Lighthouse audit scored: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>

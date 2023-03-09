@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 import Typed from 'typed.js';
 import { useEffect, useRef } from 'react';
 import { FaFileDownload, FaLinkedinIn, FaGithub, FaTwitter, FaInstagram} from 'react-icons/fa';
-import resume from '../../assets/resume3.pdf';
+import resume from '../../assets/Din_Ho_Resume.pdf';
 
 const Home = () => {
     const el = useRef(null);
