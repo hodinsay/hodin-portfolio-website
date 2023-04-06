@@ -40,6 +40,8 @@ const About = () => {
                         <li>SASS</li>
                         <li>WordPress</li>
                         <li>VsCode</li>
+                        <li>JSX</li>
+                        <li>Netlify</li>
                     </ul>
                 </div>
             </div>
