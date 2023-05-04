@@ -45,7 +45,7 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>Din Ho Photography</h3>
-                    <p>A modern, semantic, and responsive multi-page photographer portfolio website. Browse and view collections of photographs through a pop-up carousel image slider. The website is best accessible on laptop, tablet, and mobile devices.</p>
+                    <p>A modern and interactive multi-page photographer portfolio website. Browse and view photos collections through a pop-up carousel image slider. The website is responsive and accessible on mobile devices.</p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>
@@ -69,7 +69,7 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>ACR Glazing Contractors Inc. </h3>
-                    <p> Built, designed, and launched the website for the client as a freelance web developer through WordPress. The website is responsive and accessible on tablet and mobile devices. </p>
+                    <p> Designed, built, and launched a modern and interactive multi-page website for the clients through WordPress.The website is responsive and accessible on mobile devices. Implemented structural and interactive user interface with legible text and images including the necessary components for a successful company website with HTML, CSS, and WordPress. </p>
                     <span>Made with:</span>
                     <ul>
                         <li>WordPress</li>
@@ -85,7 +85,7 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>My Portfolio Website Template</h3>
-                    <p>A modern, semantic, and responsive portfolio website template for web developers and software engineers to utilize and deploy for free through Netlify. The website is accessible on tablet and mobile devices. Lighthouse audit scored: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
+                    <p>A modern and interactive portfolio website including a contact form submission hosted via Netlify. The website is responsive and accessible on mobile devices. Lighthouse audit scored: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>
