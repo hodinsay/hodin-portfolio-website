@@ -16,17 +16,15 @@ const About = () => {
             <div className='about-flex-container'>
                 <div>
                     <h3 className='about-block-title'>Who I am!</h3>
-                    <p>I am a self-taught <strong>Frontend Web Developer</strong> who focus on the front-end build of websites and web applications. Currently, I am building modern, semantic, and responsive websites with <strong>Vite + React.js</strong> on <strong>VsCode</strong> and deploying them through <strong>Netlify</strong>. Please take your time to check out some of my work under the <strong>Projects</strong> section.</p>
+                    <p>I am a self-taught <strong>Software Engineer</strong> | <strong>Web Developer</strong> who build websites and web applications. Currently, I am building modern, semantic, and responsive websites and web app with <strong>React.js</strong> on <strong>VsCode</strong> and deploying them through <strong>Netlify</strong>. Please take your time to check out some of my works under the <strong>Projects</strong> section.</p>
                     <br />
-                    <p> Everyday, I am learning more and more about the frondend web development while honing my skills as a software engineer. I have also devoted myself to become a <strong>Full-Stack Web Developer</strong> in the future with the proper skills and knowledge to build and maintain the back-end of websites and web applications.</p> 
-                    <br />
-                    <p>I'm open to <strong>Job</strong> opportunities where I can contribute and learn along with a team of like-minded individual. I am <strong>confident </strong> that I will help build the front-end of websites and/or web applications that can leads to the <strong>success</strong> of the overall product for the team and the company. If you have a good opportunity that matches my skills and experience, then please don't hesitate to <strong>Contact</strong> me.</p>
+                    <p>I'm open to <strong>Job</strong> opportunities where I can contribute and learn in a team environment at a tech company with global reach. I am <strong>confident </strong> that I will help build the frontend of websites and web applications that people first see when they want to interact with the business, leading to the <strong>success</strong> of the overall product. If you have a good opportunity that matches my skills and experience, then please don't hesitate to <strong>Contact</strong> me.</p>
                     <p className='contact-button-hover'> 
                         <Link to="contact" spy={true} smooth={true} offset={50} duration={500} className='contact-button' href='#contact'>Contact</Link>
                     </p>
                 </div>
                 <div>
-                    <h3 className='about-block-title'>Tools I use:</h3>
+                    <h3 className='about-block-title'>Skills:</h3>
                     <ul>
                         <li>HTML 5</li>
                         <li>CSS 3</li>
@@ -34,9 +32,9 @@ const About = () => {
                         <li>Node.js</li>
                         <li>Express.js</li>
                         <li>MongoDB</li>
-                        <li>Vite</li>
+                        <li>Vite.js</li>
                         <li>React.js</li>
-                        <li>GIT</li>
+                        <li>Git</li>
                         <li>SASS</li>
                         <li>WordPress</li>
                         <li>VsCode</li>

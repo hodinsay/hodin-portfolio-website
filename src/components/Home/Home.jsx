@@ -31,7 +31,7 @@ const Home = () => {
                 ref={el}
                 ></span>
             </header>
-            <p>A Software Engineer focused on frontend web development building responsive, modern, and semantic websites and web applications.</p>
+            <p>A <strong>Software Engineer | Web Developer </strong> who builds websites and web applications.</p>
             <ul>
                 <li>
                     <a href={resume} download target='_blank' className='home-buttons'>Resume <FaFileDownload /></a>
