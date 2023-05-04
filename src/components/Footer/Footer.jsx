@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='footer-container'>
                 <div>
                     <p className='footer-name'>Din Ho</p>
-                    <p>A Software Engineer focused on frontend web development building responsive, modern, and semantic websites and web applications.</p>
+                    <p>A <strong>Software Engineer | Web Developer </strong> who builds websites and web applications.</p>
                 </div>
                 <div>
                     <p className='footer-social'>Social:</p>

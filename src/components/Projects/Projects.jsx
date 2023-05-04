@@ -29,7 +29,7 @@ const Projects = () => {
                         <li>JavaScript</li>
                         <li>JSX</li>
                         <li>Node.js</li>
-                        <li>Vite</li>
+                        <li>Vite.js</li>
                         <li>React.js</li>
                         <li>SASS</li>
                         <li>Netlify</li>
@@ -53,7 +53,7 @@ const Projects = () => {
                         <li>JavaScript</li>
                         <li>JSX</li>
                         <li>Node.js</li>
-                        <li>Vite</li>
+                        <li>Vite.js</li>
                         <li>React.js</li>
                         <li>SASS</li>
                         <li>Netlify</li>
@@ -93,7 +93,7 @@ const Projects = () => {
                         <li>JavaScript</li>
                         <li>JSX</li>
                         <li>Node.js</li>
-                        <li>Vite</li>
+                        <li>Vite.js</li>
                         <li>React.js</li>
                         <li>SASS</li>
                         <li>Netlify</li>
