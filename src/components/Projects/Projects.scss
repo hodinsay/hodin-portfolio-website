@@ -13,6 +13,7 @@
     text-transform: uppercase;
     margin-bottom: 20%;
     margin-top: 20%;
+    cursor: default;
 }
 
 .projects-flex-container{
@@ -94,16 +95,19 @@
     width: 45%;
     margin-bottom: 10%;
     height: 400px;
+    cursor: default;
     // border: 1px solid #000;
 }
 
 .projects-subtitle{
     margin-bottom: 5%;
     font-size: 1.2em;
+    cursor: default;
 }
 
 .projects-heading{
     text-align: center;
+    cursor: default;
 }
 
 // Mobile viewport 

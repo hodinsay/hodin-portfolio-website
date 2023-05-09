@@ -16,9 +16,9 @@ const About = () => {
             <div className='about-flex-container'>
                 <div>
                     <h3 className='about-block-title'>Who I am!</h3>
-                    <p>I am a self-taught <strong>Software Engineer</strong> | <strong>Web Developer</strong> who build websites and web applications. Currently, I am building modern, semantic, and responsive websites and web app with <strong>React.js</strong> on <strong>VsCode</strong> and deploying them through <strong>Netlify</strong>. Please take your time to check out some of my works under the <strong>Projects</strong> section.</p>
+                    <p>I am a self-taught <strong>Software Engineer</strong> | <strong>Web Developer</strong> who build websites and web applications. Currently, I am building modern, responsive, and interactive websites and web app with <strong>React.js</strong> and deploying them through <strong>Netlify</strong>. Please take your time to check out some of my works under the <strong>Projects</strong> section.</p>
                     <br />
-                    <p>I'm open to <strong>Job</strong> opportunities where I can contribute and learn in a team environment at a tech company with global reach. I am <strong>confident </strong> that I will help build the frontend of websites and web applications that people first see when they want to interact with the business, leading to the <strong>success</strong> of the overall product. If you have a good opportunity that matches my skills and experience, then please don't hesitate to <strong>Contact</strong> me.</p>
+                    <p>I'm open to <strong>Job</strong> opportunities where I can contribute and learn in a team environment at a tech company with global reach. I am <strong>confident </strong> that I will help build the frontend of websites and web applications that are the first thing people see when they want to <strong>interact</strong> with your product, leaving users with the best first impression of your business. If you have a good opportunity that matches my skills and experience, then please don't hesitate to <strong>Contact</strong> me.</p>
                     <p className='contact-button-hover'> 
                         <Link to="contact" spy={true} smooth={true} offset={50} duration={500} className='contact-button' href='#contact'>Contact</Link>
                     </p>
@@ -35,10 +35,8 @@ const About = () => {
                         <li>Vite.js</li>
                         <li>React.js</li>
                         <li>Git</li>
-                        <li>SASS</li>
+                        <li>Sass</li>
                         <li>WordPress</li>
-                        <li>VsCode</li>
-                        <li>JSX</li>
                         <li>Netlify</li>
                     </ul>
                 </div>
