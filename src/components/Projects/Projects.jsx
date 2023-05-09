@@ -21,17 +21,16 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>Time Attask</h3>
-                    <p>A time customizable pomodoro timer to  increase productivity. The goal is to help users identify, prioritize, and complete their daily tasks in time intervals with breaks. This web app is responsive and accessible on mobile devices. </p>
+                    <p>A customizable pomodoro timer to  increase productivity. The goal is to help users identify, prioritize, and complete their daily tasks in time intervals with breaks. This web app is responsive and accessible on mobile devices. </p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>JavaScript</li>
-                        <li>JSX</li>
                         <li>Node.js</li>
                         <li>Vite.js</li>
                         <li>React.js</li>
-                        <li>SASS</li>
+                        <li>Sass</li>
                         <li>Netlify</li>
                     </ul>
                     <p className='website-button-hover'>
@@ -45,17 +44,16 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>Din Ho Photography</h3>
-                    <p>A modern and interactive multi-page photographer portfolio website. Browse and view photos collections through a pop-up carousel image slider. The website is responsive and accessible on mobile devices.</p>
+                    <p>A multi-page photographer portfolio website where users can browse and view photo collections through a pop-up carousel image slider. The website is responsive and accessible on mobile devices.</p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>JavaScript</li>
-                        <li>JSX</li>
                         <li>Node.js</li>
                         <li>Vite.js</li>
                         <li>React.js</li>
-                        <li>SASS</li>
+                        <li>Sass</li>
                         <li>Netlify</li>
                     </ul>
                     <p className='website-button-hover'>
@@ -69,7 +67,7 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>ACR Glazing Contractors Inc. </h3>
-                    <p> Designed, built, and launched a modern and interactive multi-page website for the clients through WordPress.The website is responsive and accessible on mobile devices. Implemented structural and interactive user interface with legible text and images including the necessary components for a successful company website with HTML, CSS, and WordPress. </p>
+                    <p> Designed, built, and launched a modern and interactive multi-page website for the clients with WordPress and custom HTML/CSS. The website is responsive and accessible on mobile devices.</p>
                     <span>Made with:</span>
                     <ul>
                         <li>WordPress</li>
@@ -85,17 +83,16 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>My Portfolio Website Template</h3>
-                    <p>A modern and interactive portfolio website including a contact form submission hosted via Netlify. The website is responsive and accessible on mobile devices. Lighthouse audit scored: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
+                    <p>A portfolio website including a working contact form submission hosted on Netlify. The website is responsive and accessible on mobile devices. Lighthouse audit score: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
                     <span>Made with:</span>
                     <ul>
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>JavaScript</li>
-                        <li>JSX</li>
                         <li>Node.js</li>
                         <li>Vite.js</li>
                         <li>React.js</li>
-                        <li>SASS</li>
+                        <li>Sass</li>
                         <li>Netlify</li>
                     </ul>
                     <p className='website-button-hover'>
