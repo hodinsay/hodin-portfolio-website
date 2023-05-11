@@ -1,6 +1,10 @@
 import './About.scss';
 import din from '../../assets/din-294.avif';
 import { Link } from 'react-scroll';
+import { TiHtml5 } from 'react-icons/ti';
+import { FaCss3Alt, FaNodeJs, FaReact, FaGit, FaSass, FaWordpress } from 'react-icons/fa';
+import { TbBrandJavascript } from 'react-icons/tb';
+import { SiMongodb, SiVite, SiNetlify, SiExpress } from 'react-icons/si';
 
 const About = () => {
     return(
@@ -26,18 +30,18 @@ const About = () => {
                 <div>
                     <h3 className='about-block-title'>Skills:</h3>
                     <ul>
-                        <li>HTML 5</li>
-                        <li>CSS 3</li>
-                        <li>JavaScript</li>
-                        <li>Node.js</li>
-                        <li>Express.js</li>
-                        <li>MongoDB</li>
-                        <li>Vite.js</li>
-                        <li>React.js</li>
-                        <li>Git</li>
-                        <li>Sass</li>
-                        <li>WordPress</li>
-                        <li>Netlify</li>
+                        <li> <TiHtml5 className='skills'/> <br /> HTML 5 </li>
+                        <li> <FaCss3Alt className='skills'/> <br /> CSS 3 </li>
+                        <li> <TbBrandJavascript className='skills'/> <br /> JavaScript</li>
+                        <li> <FaNodeJs className='skills'/> <br />Node.js </li>
+                        <li> <SiExpress className='skills'/> <br />Express.js</li>
+                        <li> <SiMongodb className='skills'/> <br /> MongoDB</li>
+                        <li> <SiVite className='skills'/> <br /> Vite.js</li>
+                        <li> <FaReact className='skills'/> <br />React.js</li>
+                        <li> <FaGit className='skills'/> <br />Git</li>
+                        <li> <FaSass className='skills'/> <br />Sass</li>
+                        <li> <FaWordpress className='skills'/> <br />WordPress</li>
+                        <li> <SiNetlify className='skills'/> <br />Netlify</li>
                     </ul>
                 </div>
             </div>

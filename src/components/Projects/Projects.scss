@@ -5,7 +5,6 @@
     flex-direction: column;
     width: 100%;
     background-color: #f4f0ec;
-    // text-align: center;
 }
 
 .projects-title{
@@ -13,7 +12,6 @@
     text-transform: uppercase;
     margin-bottom: 20%;
     margin-top: 20%;
-    cursor: default;
 }
 
 .projects-flex-container{
@@ -27,7 +25,6 @@
     width: 45%;
     margin-bottom: 10%;
     height: 350px;
-    // border: 1px solid black;
     transition: transform 0.5s;
 
     &:hover{
@@ -47,8 +44,9 @@
 }
 
 .projects-description > ul > li{
-    font-size: 1em;
-    margin-right: 10px;
+    font-size: 0.8em;
+    margin-right: 20px;
+    text-align: center;
     transition: transform 0.5s, color 0.5s;
 
     &:hover{
@@ -64,11 +62,11 @@
 
 .projects-name{
     font-size: 1.5em;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
 
 .website-button-hover{
-    margin-top: 10%;
+    margin-top: 5%;
     transition: transform 0.5s;
 
     &:hover{
@@ -78,7 +76,6 @@
 
 .website-button{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-    // border: 1px solid black;
     padding: 20px 60px;
     background-color: #A6020C;
     color: #fff;
@@ -95,19 +92,20 @@
     width: 45%;
     margin-bottom: 10%;
     height: 400px;
-    cursor: default;
-    // border: 1px solid #000;
 }
 
 .projects-subtitle{
     margin-bottom: 5%;
     font-size: 1.2em;
-    cursor: default;
 }
 
 .projects-heading{
     text-align: center;
-    cursor: default;
+}
+
+.techs{
+    margin: 10% 0;
+    font-size: 2rem;
 }
 
 // Mobile viewport 
@@ -119,13 +117,13 @@
     .projects-description{
         width: 90%;
         height: 200px;
-        margin-bottom: 15%;
+        margin-bottom: 30%;
     }
     .projects-description > p{
         margin-bottom: 5%;
     }
     .projects-name{
-        margin-bottom: 5%;
+        margin-bottom: 10%;
     }
     .website-button{
         padding: 12px 45px;
@@ -151,8 +149,12 @@
     }
     .website-button{
         padding: 12px 45px;
+        margin-bottom: 10%;
     }
     .website-button-hover{
         margin-top: 5%;
+    }
+    .projects-flex-container{
+        padding-bottom: 50px;
     }
 };
