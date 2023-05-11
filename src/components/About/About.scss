@@ -4,7 +4,6 @@
     align-items: center;
     flex-direction: column;
     width: 100%;
-    // height: 100vh;
 }
 
 .about-title{
@@ -12,7 +11,6 @@
     text-transform: uppercase;
     margin-bottom: 40px;
     margin-top: 40px;
-    cursor: default;
 }
 
 .profile-pic{
@@ -42,13 +40,11 @@
 .about-flex-container > div > p{
     font-size: 0.9em;
     color: #333;
-    cursor: default;
 }
 
 .about-block-title{
     font-size: 2em;
     margin-bottom: 20px;
-    cursor: default;
 }
 
 .about-flex-container > div > ul{
@@ -62,7 +58,7 @@
     margin-bottom: 20px;
     margin-right: 20px;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 0.7em;
     background-color: #f4f0ec;
     transition: border-radius 0.5s, box-shadow 0.5s, transform 0.5s;
 
@@ -74,10 +70,14 @@
     }
 }
 
+.skills{
+    font-size: 2rem;
+    text-align: center;
+}
+
 .about-subtitle{
     margin-bottom: 20%;
     font-size: 1.2em;
-    cursor: default;
 }
 
 .about-heading{
