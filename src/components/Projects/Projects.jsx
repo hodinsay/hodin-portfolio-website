@@ -3,7 +3,7 @@ import acr from '../../assets/acr-768.avif';
 import photography from '../../assets/photography-768.avif';
 import portfolio from '../../assets/portfolio-768w.avif';
 import timeattask from '../../assets/time-attask.avif';
-import { FaCss3Alt, FaNodeJs, FaReact, FaGit, FaSass, FaWordpress, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaCss3Alt, FaReact, FaSass, FaWordpress, FaExternalLinkAlt } from 'react-icons/fa';
 import { TbBrandJavascript } from 'react-icons/tb';
 import { SiVite, SiNetlify } from 'react-icons/si';
 import { TiHtml5 } from 'react-icons/ti';
@@ -30,7 +30,6 @@ const Projects = () => {
                         <li><TiHtml5 className='techs'/> <br /> HTML</li>
                         <li><FaCss3Alt className='techs'/> <br /> CSS</li>
                         <li><TbBrandJavascript className='techs'/> <br /> JavaScript</li>
-                        <li><FaNodeJs className='techs'/> <br /> Node.js</li>
                         <li><SiVite className='techs'/> <br /> Vite.js</li>
                         <li><FaReact className='skills'/> <br />React.js</li>
                         <li><FaSass className='skills'/> <br />Sass</li>
@@ -53,7 +52,6 @@ const Projects = () => {
                         <li><TiHtml5 className='techs'/> <br /> HTML</li>
                         <li><FaCss3Alt className='techs'/> <br /> CSS</li>
                         <li><TbBrandJavascript className='techs'/> <br /> JavaScript</li>
-                        <li><FaNodeJs className='techs'/> <br /> Node.js</li>
                         <li><SiVite className='techs'/> <br /> Vite.js</li>
                         <li><FaReact className='skills'/> <br />React.js</li>
                         <li><FaSass className='skills'/> <br />Sass</li>
@@ -88,13 +86,12 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>My Portfolio Website Template</h3>
-                    <p>A portfolio website including a working contact form submission hosted on Netlify. The website is responsive and accessible on mobile devices. Lighthouse audit score: <strong>100 Accessibility, 100 Best Practices, 100 SEO, 97 Performance.</strong></p>
+                    <p>A 100 points portfolio website including a working contact form submission hosted on Netlify. The website is responsive and accessible on mobile devices. Lighthouse audit score: <strong>100 Performance, 100 Accessibility, 100 Best Practices, 100 SEO.</strong></p>
                     <span>Made with:</span>
                     <ul>
                         <li><TiHtml5 className='techs'/> <br /> HTML</li>
                         <li><FaCss3Alt className='techs'/> <br /> CSS</li>
                         <li><TbBrandJavascript className='techs'/> <br /> JavaScript</li>
-                        <li><FaNodeJs className='techs'/> <br /> Node.js</li>
                         <li><SiVite className='techs'/> <br /> Vite.js</li>
                         <li><FaReact className='skills'/> <br />React.js</li>
                         <li><FaSass className='skills'/> <br />Sass</li>
