@@ -1,9 +1,9 @@
 # Din Ho Portfolio Website
-A modern, semantic, and responsive portfolio website. The website is accessible on tablet and mobile devices. Google Lighthouse audit scored: `100 Performance`, `100 Accessibility`, `100 Best Practices`, `100 SEO`.
+A 100 points modern, semantic, and responsive portfolio website. The website is accessible on tablet and mobile devices. Google Lighthouse audit scored: `100 Performance`, `100 Accessibility`, `100 Best Practices`, `100 SEO`.
 
 **Link to website:** https://hodinportfolio.netlify.app/
 
-<img width="1440" alt="Screenshot 2023-03-07 at 10 59 17 PM" src="https://user-images.githubusercontent.com/100463706/223645624-caa05494-2a14-4e93-9311-06253528be4c.png">
+<img width="1440" alt="Screenshot 2023-06-08 at 12 58 52 PM" src="https://github.com/hodinsay/hodin-portfolio-website/assets/100463706/c7305d97-75df-439b-b954-1ea7c2a658af">
 
 **Google Lighthouse audit scored:**
 
