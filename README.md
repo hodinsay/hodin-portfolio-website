@@ -21,7 +21,7 @@ A 100 points modern, semantic, and responsive portfolio website. The website is 
 - Auto text typed input effect via `typed.js` by **Matt Boldt**. 
 
 # Techs used:
-`HTML 5` `CSS 3` `JavaScript ES6` `Node.js` `Vite` `React.js` `Sass`
+`HTML 5` `CSS 3` `JavaScript ES6` `Vite` `React.js` `Sass`
 
 # Install all dependencies to use this website as template:
 `npm install`
