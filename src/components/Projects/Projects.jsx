@@ -24,13 +24,13 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>Time Attask</h3>
-                    <p>A customizable pomodoro timer to  increase productivity. The goal is to help users identify, prioritize, and complete their daily tasks in time intervals with breaks. This web app is responsive and accessible on mobile devices. </p>
+                    <p>A customizable pomodoro timer to  increase productivity. The goal is to help users identify, prioritize, and complete their daily tasks in time intervals with breaks. This web app is responsive and accessible on mobile devices. Google Lighthouse audit score: <strong>100 Performance, 100 Accessibility, 100 Best Practices, 100 SEO.</strong></p>
                     <span>Made with:</span>
                     <ul>
                         <li><TiHtml5 className='techs'/> <br /> HTML</li>
                         <li><FaCss3Alt className='techs'/> <br /> CSS</li>
                         <li><TbBrandJavascript className='techs'/> <br /> JavaScript</li>
-                        <li><SiVite className='techs'/> <br /> Vite.js</li>
+                        <li><SiVite className='techs'/> <br /> Vite</li>
                         <li><FaReact className='skills'/> <br />React.js</li>
                         <li><FaSass className='skills'/> <br />Sass</li>
                         <li><SiNetlify className='skills'/> <br />Netlify</li>
@@ -52,7 +52,7 @@ const Projects = () => {
                         <li><TiHtml5 className='techs'/> <br /> HTML</li>
                         <li><FaCss3Alt className='techs'/> <br /> CSS</li>
                         <li><TbBrandJavascript className='techs'/> <br /> JavaScript</li>
-                        <li><SiVite className='techs'/> <br /> Vite.js</li>
+                        <li><SiVite className='techs'/> <br /> Vite</li>
                         <li><FaReact className='skills'/> <br />React.js</li>
                         <li><FaSass className='skills'/> <br />Sass</li>
                         <li><SiNetlify className='skills'/> <br />Netlify</li>
@@ -86,13 +86,13 @@ const Projects = () => {
                 </figure>
                 <div className='projects-description'>
                     <h3 className='projects-name'>My Portfolio Website Template</h3>
-                    <p>A 100 points portfolio website including a working contact form submission hosted on Netlify. The website is responsive and accessible on mobile devices. Lighthouse audit score: <strong>100 Performance, 100 Accessibility, 100 Best Practices, 100 SEO.</strong></p>
+                    <p>A 100 points portfolio website including a working contact form submission hosted on Netlify. The website is responsive and accessible on mobile devices. Google Lighthouse audit score: <strong>100 Performance, 100 Accessibility, 100 Best Practices, 100 SEO.</strong></p>
                     <span>Made with:</span>
                     <ul>
                         <li><TiHtml5 className='techs'/> <br /> HTML</li>
                         <li><FaCss3Alt className='techs'/> <br /> CSS</li>
                         <li><TbBrandJavascript className='techs'/> <br /> JavaScript</li>
-                        <li><SiVite className='techs'/> <br /> Vite.js</li>
+                        <li><SiVite className='techs'/> <br /> Vite</li>
                         <li><FaReact className='skills'/> <br />React.js</li>
                         <li><FaSass className='skills'/> <br />Sass</li>
                         <li><SiNetlify className='skills'/> <br />Netlify</li>
