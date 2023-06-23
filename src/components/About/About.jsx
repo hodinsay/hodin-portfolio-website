@@ -36,7 +36,7 @@ const About = () => {
                         <li> <FaNodeJs className='skills'/> <br />Node.js </li>
                         <li> <SiExpress className='skills'/> <br />Express.js</li>
                         <li> <SiMongodb className='skills'/> <br /> MongoDB</li>
-                        <li> <SiVite className='skills'/> <br /> Vite.js</li>
+                        <li> <SiVite className='skills'/> <br /> Vite</li>
                         <li> <FaReact className='skills'/> <br />React.js</li>
                         <li> <FaGit className='skills'/> <br />Git</li>
                         <li> <FaSass className='skills'/> <br />Sass</li>
