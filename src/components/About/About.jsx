@@ -4,7 +4,7 @@ import { Link } from 'react-scroll';
 import { TiHtml5 } from 'react-icons/ti';
 import { FaCss3Alt, FaNodeJs, FaReact, FaGit, FaSass, FaWordpress } from 'react-icons/fa';
 import { TbBrandJavascript } from 'react-icons/tb';
-import { SiMongodb, SiVite, SiNetlify, SiExpress } from 'react-icons/si';
+import { SiMongodb, SiVite, SiNetlify, SiExpress, SiTailwindcss } from 'react-icons/si';
 
 const About = () => {
     return(
@@ -40,6 +40,7 @@ const About = () => {
                         <li> <FaReact className='skills'/> <br />React.js</li>
                         <li> <FaGit className='skills'/> <br />Git</li>
                         <li> <FaSass className='skills'/> <br />Sass</li>
+                        <li> <SiTailwindcss className='skills'/> <br />Tailwind CSS</li>
                         <li> <FaWordpress className='skills'/> <br />WordPress</li>
                         <li> <SiNetlify className='skills'/> <br />Netlify</li>
                     </ul>
