@@ -4,6 +4,7 @@ import photography from '../../assets/photography-768.avif';
 import portfolio from '../../assets/portfolio-768w.avif';
 import timeattask from '../../assets/time-attask.avif';
 import ageCalculator from '../../assets/age-calculator.avif';
+import nasaApiPic from '../../assets/nasa-api.avif';
 import { FaExternalLinkAlt } from 'react-icons/fa';
 
 
@@ -16,6 +17,27 @@ const Projects = () => {
             </header>
             <p className='projects-subtitle'>My recent and notable projects.</p>
             <div className='projects-flex-container'>
+                <figure className='projects-box'>
+                    <a href="https://nasa-daily-pic-api-react-tailwindcss.netlify.app/" target='_blank'>
+                        <img src={nasaApiPic} alt="nasa-pic" className='image' width='768' height='438'/>
+                    </a>
+                </figure>
+                <div className='projects-description'>
+                    <h3 className='projects-name'>NASA API Daily Pic</h3>
+                    <p>A web application that will fetch and retrieve the selected picture of the day from NASA API along with the title and description. There is a pop-up modal feature to zoom-in and zoom-out of the picture. This web application is responsive and accessible on mobile devices. Google Lighthouse audit score: <strong>100 Performance, 100 Accessibility, 100 Best Practices, 100 SEO.</strong></p>
+                    <span>Made with:</span>
+                    <ul>
+                        <li> HTML</li>
+                        <li> Tailwind CSS</li>
+                        <li> JavaScript</li>
+                        <li> Vite</li>
+                        <li> React.js</li>
+                        <li> Netlify</li>
+                    </ul>
+                    <p className='website-button-hover'>
+                        <a href="https://nasa-daily-pic-api-react-tailwindcss.netlify.app/" target='_blank' className='website-button'>Website <FaExternalLinkAlt /></a>       
+                    </p>
+                </div>
                 <figure className='projects-box'>
                     <a href="https://age-calculator-react-tailwindcss.netlify.app/" target='_blank'>
                         <img src={ageCalculator} alt="age-calculator" className='image' width='768' height='438'/>
